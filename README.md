@@ -292,7 +292,7 @@ NOTE: Unassign all users first to delete task
 
 3. **USER**: 
     - Can view own profile 
-    - Can view on tasks
+    - Can view own tasks
 
 ## Exception Handling
 
