@@ -1,5 +1,8 @@
 # User Management System API with Role-Based Access Control
 
+Test API:
+[UserManagementSystemAPI](https://reqbin.com/sbbtedhl)
+
 A Spring Boot application implementing user management with role-based access control, task management, and secure authentication.
 
 ## Features
@@ -15,6 +18,7 @@ A Spring Boot application implementing user management with role-based access co
 
 - **Spring Boot 3**
 - **Spring Security** - Authentication and authorization
+- **Spring Security OAuth2 Resource Server** – JWT validation and API security
 - **Spring Data JPA** - Database operations
 - **MySQL** - Relational database
 - **Lombok** - Reduces boilerplate code
