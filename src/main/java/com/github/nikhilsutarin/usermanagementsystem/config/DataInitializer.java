@@ -15,7 +15,8 @@ import java.util.HashSet;
 import java.util.Set;
 
 @Component
-public class DataInitializer implements CommandLineRunner {
+public class DataInitializer {
+//public class DataInitializer implements CommandLineRunner {
 
     @Autowired
     private UserRepo userRepo;
@@ -29,7 +30,7 @@ public class DataInitializer implements CommandLineRunner {
     @Autowired
     private PasswordEncoder passwordEncoder;
 
-    @Override
+//    @Override
     public void run(String... args) throws Exception {
 
         // Create roles
