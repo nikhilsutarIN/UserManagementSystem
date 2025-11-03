@@ -1,7 +1,7 @@
 # User Management System API with Role-Based Access Control
 
 Test API:
-[UserManagementSystemAPI](https://reqbin.com/grjcn8wz)
+[UserManagementSystemAPI](http://userapi.ap-south-1.elasticbeanstalk.com/swagger-ui/index.html)
 
 A Spring Boot application implementing user management with role-based access control, task management, and secure authentication.
 
@@ -23,6 +23,7 @@ A Spring Boot application implementing user management with role-based access co
 - **MySQL** - Relational database
 - **Lombok** - Reduces boilerplate code
 - **Maven** - Dependency management
+- **Swagger** - API Documentation
 
 ## Project Structure
 
