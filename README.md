@@ -124,7 +124,7 @@ The system comes pre-populated with the following users:
 
 ### 0.1. Authentication - Generate jwt token
 
-NOTE: The token expires in 3 minutes
+NOTE: The token expires in 2 minutes
 
 **Request:**
 
