@@ -3,7 +3,7 @@
 ![Create tasks](github-images/usermanagementsystemapi.png)
 
 Test API:
-[UserManagementSystemAPI](http://userapi.ap-south-1.elasticbeanstalk.com/swagger-ui/index.html) (allow 1-4 minutes to load)
+[UserManagementSystemAPI](https://usermanagementsystem-nysh.onrender.com/swagger-ui/index.html) (allow 1-4 minutes to load)
 
 A Spring Boot application implementing user management with role-based access control, task management, and secure authentication.
 
