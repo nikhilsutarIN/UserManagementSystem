@@ -18,7 +18,7 @@ public class HomeController {
         Map<String, Object> body = new LinkedHashMap<>();
         body.put("status", HttpStatus.OK.value());
         body.put("error", "None");
-        body.put("message", "You are on home endpoint, see documentation for more information");
+        body.put("message", "You are on home endpoint, see documentation for more information - © Nikhil Sutar 2026");
         body.put("path", request.getServletPath());
         return ResponseEntity.status(HttpStatus.OK).body(body);
     }
